@@ -8,7 +8,7 @@
 
 ```bash
 sudo apt update
-sudo apt -y intstall nodejs npm
+sudo apt -y install nodejs npm
 ```
 ## Install 
 
