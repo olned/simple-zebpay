@@ -2,7 +2,9 @@
 
 ## Dependencies
 
-NodeJS npm
+[node.js](https://nodejs.org/) 
+[npm](https://www.npmjs.com/) 
+[socket.io](https://socket.io/)
 
 ```bash
 sudo apt update
