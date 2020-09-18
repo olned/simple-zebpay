@@ -1,0 +1,27 @@
+{
+  "name": "simple-zebpay",
+  "version": "0.1.0",
+  "description": "Example of connecting to zebpay using JavaScript",
+  "main": "zebpay_feed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olned/simple-zebpay.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "zebpay"
+  ],
+  "author": "Oleg Nedbyalo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olned/simple-zebpay/issues"
+  },
+  "homepage": "https://github.com/olned/simple-zebpay#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
